@@ -1,9 +1,7 @@
 ## 🧠 **Next Word Prediction Using Deep Learning** 🤖✨
 
 ## 📌 Overview 
-🚀 Thrilled to share my latest Deep Learning project!
-
-where I developed a **Next Word Prediction Model**, an exciting application of **Natural Language Processing (NLP)** that predicts the next word in a sentence — just like your smartphone keyboard! 📱💬
+🚀 Thrilled to share my latest **Deep Learning project**,where I developed a **Next Word Prediction Model**, an exciting application of **Natural Language Processing (NLP)** that predicts the next word in a sentence — just like your smartphone keyboard! 📱💬
 
 ----
 
