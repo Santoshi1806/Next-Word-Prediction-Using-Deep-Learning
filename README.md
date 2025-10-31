@@ -1,4 +1,4 @@
-🧠 **Next Word Prediction Using Deep Learning** 🤖✨
+## 🧠 **Next Word Prediction Using Deep Learning** 🤖✨
 
 ## 📌 Overview  
 🚀 **Thrilled to share my latest Deep Learning project!**
