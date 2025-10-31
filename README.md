@@ -2,6 +2,7 @@
 
 ## 📌 Overview  
 🚀 **Thrilled to share my latest Deep Learning project!**
+
 I built a **Next Word Prediction Model**, an exciting application of **Natural Language Processing (NLP)** that predicts the next word in a sentence — just like your smartphone keyboard! 📱💬
 
 ----
