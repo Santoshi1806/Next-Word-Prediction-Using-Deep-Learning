@@ -1,11 +1,12 @@
 🧠 **Next Word Prediction Using Deep Learning** 🤖✨
 
+## 📌 Overview  
 🚀 **Thrilled to share my latest Deep Learning project!**
 I built a **Next Word Prediction Model**, an exciting application of **Natural Language Processing (NLP)** that predicts the next word in a sentence — just like your smartphone keyboard! 📱💬
 
 ----
 
-🔍 **Project Highlights:**
+## 🔍 **Project Highlights:**
 ✨ Developed a **Recurrent Neural Network (RNN)** with **LSTM layers** to understand language patterns.
 🧾 Performed **text preprocessing**, including tokenization, cleaning, and sequence padding.
 🧠 Trained the model to **predict the most probable next word** based on context.
@@ -14,7 +15,7 @@ I built a **Next Word Prediction Model**, an exciting application of **Natural L
 
 ----
 
-💡 **Key Outcome:**
+## 💡 **Key Outcome:**
 This project showcases how **AI can understand and generate human-like text**, forming the backbone of:
 🤖 Chatbots
 🎙️ AI Assistants
