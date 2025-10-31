@@ -21,8 +21,11 @@ I built a **Next Word Prediction Model**, an exciting application of **Natural L
 
 ## 💡 **Key Outcome:**
 This project showcases how **AI can understand and generate human-like text**, forming the backbone of:
+
 🤖 Chatbots
+
 🎙️ AI Assistants
+
 ⌨️ Autocomplete Tools
 
 Through this project, I enhanced my expertise in **Deep Learning, Sequence Modeling, and NLP** — crucial skills for building next-gen AI solutions 🌍✨
