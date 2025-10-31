@@ -8,9 +8,13 @@ I built a **Next Word Prediction Model**, an exciting application of **Natural L
 
 ## 🔍 **Project Highlights:**
 ✨ Developed a **Recurrent Neural Network (RNN)** with **LSTM layers** to understand language patterns.
+
 🧾 Performed **text preprocessing**, including tokenization, cleaning, and sequence padding.
+
 🧠 Trained the model to **predict the most probable next word** based on context.
+
 📊 Analyzed **training performance** using loss curves and tuned hyperparameters for better accuracy.
+
 💻 Implemented using **Python 🐍**, **TensorFlow 🔢**, and **Keras 🧩** frameworks.
 
 ----
